@@ -1,0 +1,16 @@
+C:\Users\sachin7.jain\Documents\Sachin\DotnetCore\RetailAssest\RetailAssest\obj\Debug\netcoreapp2.1\RetailAssest.csproj.CoreCompileInputs.cache
+C:\Users\sachin7.jain\Documents\Sachin\DotnetCore\RetailAssest\RetailAssest\obj\Debug\netcoreapp2.1\RetailAssest.RazorAssemblyInfo.cache
+C:\Users\sachin7.jain\Documents\Sachin\DotnetCore\RetailAssest\RetailAssest\obj\Debug\netcoreapp2.1\RetailAssest.RazorAssemblyInfo.cs
+C:\Users\sachin7.jain\Documents\Sachin\DotnetCore\RetailAssest\RetailAssest\obj\Debug\netcoreapp2.1\RetailAssest.AssemblyInfoInputs.cache
+C:\Users\sachin7.jain\Documents\Sachin\DotnetCore\RetailAssest\RetailAssest\obj\Debug\netcoreapp2.1\RetailAssest.AssemblyInfo.cs
+C:\Users\sachin7.jain\Documents\Sachin\DotnetCore\RetailAssest\RetailAssest\bin\Debug\netcoreapp2.1\RetailAssest.deps.json
+C:\Users\sachin7.jain\Documents\Sachin\DotnetCore\RetailAssest\RetailAssest\bin\Debug\netcoreapp2.1\RetailAssest.runtimeconfig.json
+C:\Users\sachin7.jain\Documents\Sachin\DotnetCore\RetailAssest\RetailAssest\bin\Debug\netcoreapp2.1\RetailAssest.runtimeconfig.dev.json
+C:\Users\sachin7.jain\Documents\Sachin\DotnetCore\RetailAssest\RetailAssest\bin\Debug\netcoreapp2.1\RetailAssest.dll
+C:\Users\sachin7.jain\Documents\Sachin\DotnetCore\RetailAssest\RetailAssest\bin\Debug\netcoreapp2.1\RetailAssest.pdb
+C:\Users\sachin7.jain\Documents\Sachin\DotnetCore\RetailAssest\RetailAssest\bin\Debug\netcoreapp2.1\RetailAssest.xml
+C:\Users\sachin7.jain\Documents\Sachin\DotnetCore\RetailAssest\RetailAssest\obj\Debug\netcoreapp2.1\RetailAssest.RazorTargetAssemblyInfo.cache
+C:\Users\sachin7.jain\Documents\Sachin\DotnetCore\RetailAssest\RetailAssest\obj\Debug\netcoreapp2.1\RetailAssest.dll
+C:\Users\sachin7.jain\Documents\Sachin\DotnetCore\RetailAssest\RetailAssest\obj\Debug\netcoreapp2.1\RetailAssest.xml
+C:\Users\sachin7.jain\Documents\Sachin\DotnetCore\RetailAssest\RetailAssest\obj\Debug\netcoreapp2.1\RetailAssest.pdb
+C:\Users\sachin7.jain\Documents\Sachin\DotnetCore\RetailAssest\RetailAssest\obj\Debug\netcoreapp2.1\RetailAssest.csprojAssemblyReference.cache

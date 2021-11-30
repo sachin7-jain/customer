@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RetailAssest</name>
+    </assembly>
+    <members>
+        <member name="F:RetailAssest.BL.BAL._dal">
+            <summary>
+            This section to be used for any business logic, no direct DB call in the class, it also include validation from any external or internal API
+            </summary>
+        </member>
+        <member name="T:RetailAssest.Controllers.CustomerController">
+            <summary>
+            Controller to manage details of Onboarding Customer for Loan via webSite
+            </summary>
+        </member>
+        <member name="M:RetailAssest.Controllers.CustomerController.GetCustomers">
+            <summary>
+            Api to get the list of all Customers
+            </summary>
+        </member>
+        <member name="M:RetailAssest.Controllers.CustomerController.GetCustomers(System.String)">
+            <summary>
+            Api to get customer based on RequestId
+            </summary>
+        </member>
+        <member name="M:RetailAssest.Controllers.CustomerController.Add(RetailAssest.Customer)">
+             <summary>
+             Api to manage the Customer Data
+             </summary>
+            <param name="customer">Model for managing the customer data segment</param>
+        </member>
+        <member name="P:RetailAssest.Customer.RequestId">
+            <summary>
+            Type of Applicant
+            </summary>
+            <example>
+            630AA8D0-D153-49E0-BA04-2B8A6E797648
+            </example>
+        </member>
+        <member name="P:RetailAssest.Customer.ApplicantType">
+            <summary> 
+            Type of Applicant :  Entity / Individual
+            </summary>
+            <example>
+            Entity
+            </example>
+        </member>
+        <member name="P:RetailAssest.Customer.IncomeType">
+            <summary>
+            Income type : Salaried / Self Employee
+            </summary>
+            <example>
+            Salaried
+            </example>
+        </member>
+        <member name="P:RetailAssest.Customer.ResidentStatus">
+            <summary>
+            Resident Status : Resident India / NRI
+            </summary>
+            <example>
+            Resident India
+            </example>
+        </member>
+        <member name="P:RetailAssest.Customer.Gender">
+            <summary>
+            Gender : Male / Female
+            </summary>
+            <example>
+            Male
+            </example>
+        </member>
+        <member name="P:RetailAssest.Customer.FirstName">
+            <summary>
+            First name of the Applicant
+            </summary>
+            <example>
+            Sachin
+            </example>
+        </member>
+        <member name="P:RetailAssest.Customer.LastName">
+            <summary>
+            Last name of Applicant
+            </summary>
+            <example>
+            Jain
+            </example>
+        </member>
+        <member name="P:RetailAssest.Customer.EmailId">
+            <summary>
+            Email ID of Applicant
+            </summary>
+            <example>
+            xxxxxxxxx@gmail.com
+            </example>
+        </member>
+        <member name="P:RetailAssest.Customer.MobileNumber">
+            <summary>
+            Applicant mobile number
+            </summary>
+            <example>
+            9999999999
+            </example>
+        </member>
+        <member name="P:RetailAssest.Customer.AlternateMobileNumber">
+            <summary>
+            Alternate mobile number, not mandetory
+            </summary>
+        </member>
+        <member name="P:RetailAssest.Customer.IsTncAgree">
+            <summary>
+            Acceptance flag for TnC
+            </summary>
+            <example>
+            1
+            </example>
+        </member>
+        <member name="P:RetailAssest.Customer.Status">
+            <summary>
+            Status of the Request : 
+            FollowUp
+            Pending for Docs
+            Credit Reject
+            RCU Reject
+            Negative Area
+            SanctionLost
+            DuplicatePANCard
+            Sanctioned
+            </summary>
+            <example>
+            FollowUp
+            </example>
+        </member>
+        <member name="P:RetailAssest.Customer.CreatedOn">
+            <summary>
+            Date of Lead Request Creation
+            </summary>
+        </member>
+        <member name="P:RetailAssest.Customer.CreatedBy">
+            <summary>
+            Source of Lead Request Creation
+            </summary>
+        </member>
+        <member name="P:CMS_NC_BusinessUnit.DTO.CustomResponse.Message">
+            <summary>
+            Response Message - Eg: Record inserted successfully / Record updated successfully / No record found
+            </summary>
+        </member>
+        <member name="P:CMS_NC_BusinessUnit.DTO.CustomResponse`1.Data">
+            <summary>
+            Data returned by the api
+            </summary>
+        </member>
+    </members>
+</doc>
